@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "gulp": "*",
+    "gulp-shell": "*",
+    "gulp-minify-html": "*",
+    "gulp-uglify": "*",
+    "gulp-minify-css": "*",
+    "gulp-help": "*"
+  }
+}
